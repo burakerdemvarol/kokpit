@@ -8,7 +8,7 @@ const App = () => {
   return (
     <View style={styles.container}>
       <View style={styles.center}>
-        <Text>Hello React Native Web!!!</Text>
+        <Text>Burak Erdem Varol First Project On Render</Text>
       </View>
     </View>
   );
